@@ -12,3 +12,6 @@ Sources:
 https://www.tensorflow.org/overview
 
 https://www.youtube.com/watch?v=tPYj3fFJGjk
+
+Results quick look
+![alt text](screenshots/LinearRegressionAndClassification.jpg?raw=true)
